@@ -1,0 +1,12 @@
+C:\Users\muham\source\repos\ATM_BO\bin\Debug\net5.0\ATM_BO.deps.json
+C:\Users\muham\source\repos\ATM_BO\bin\Debug\net5.0\ATM_BO.dll
+C:\Users\muham\source\repos\ATM_BO\bin\Debug\net5.0\ref\ATM_BO.dll
+C:\Users\muham\source\repos\ATM_BO\bin\Debug\net5.0\ATM_BO.pdb
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.AssemblyInfo.cs
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.dll
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ref\ATM_BO.dll
+C:\Users\muham\source\repos\ATM_BO\obj\Debug\net5.0\ATM_BO.pdb
