@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ATM_DAL.deps.json
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ATM_DAL.dll
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ref\ATM_DAL.dll
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ATM_DAL.pdb
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ATM_BO.dll
+C:\Users\muham\source\repos\ATM_DLL\bin\Debug\net5.0\ATM_BO.pdb
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.AssemblyInfo.cs
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.csproj.CopyComplete
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.dll
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ref\ATM_DAL.dll
+C:\Users\muham\source\repos\ATM_DLL\obj\Debug\net5.0\ATM_DAL.pdb
